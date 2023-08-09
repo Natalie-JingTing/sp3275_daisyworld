@@ -75,7 +75,7 @@ b) The two daisies have countering impacts on the temperature of the planet, if 
 
 c) vegetations (daisies), temperature (climactic consequence), luminosity (activity of the Sun) and albedo (greenhouse effect or the albedo of Earth’s surface layers).
 
-d) This is only a representation of the relationship between white daisy coverage and temperature, which does not factor in the growth rate of daisies. Normally, a larger surface area is covered by white daisies; the closer the planet’s albedo leans towards that of the white daisy vegetation. Given the same solar flux-in, the more light will be reflected by daisies than barren ground ($albedo = {{reflected \ light} \over {total \ light}}$) and therefore the more daisies there are, the more the temperature will be negatively affected. The relationship being linear involves the grey body premise where $F_{in} = A + B \cdot T_p$ (A and B are coefficients that are empirically confirmed). 
+d) This is only a representation of the relationship between white daisy coverage and temperature, which does not factor in the growth rate of daisies. Normally, a larger surface area is covered by white daisies; the closer the planet’s albedo leans towards that of the white daisy vegetation. Given the same solar flux-in, the more light will be reflected by daisies than barren ground ($albedo = {reflected \ light \over total \ light}$) and therefore the more daisies there are, the more the temperature will be negatively affected. The relationship being linear involves the grey body premise where $F_{in} = A + B \cdot T_p$ (A and B are coefficients that are empirically confirmed). 
 </div>
 
 :::
