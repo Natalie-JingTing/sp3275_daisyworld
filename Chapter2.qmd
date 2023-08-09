@@ -1,5 +1,5 @@
 ---
-title: 'Theme 2: How does life affect the planet''s temperature stability?'
+title: Theme Two
 subtitle: Daisyworld
 author: 'Lead Author: Ng Jing Ting <br> Collaborator: Shao Nandi <br> Corresponding Author: Dr Linda Sellou'
 format:
